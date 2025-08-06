@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "movieboss",
-    "slug": "movieboss",
+    "slug": "movie-boss",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "f13bcdff-ad69-44c7-8ec8-2b3ea187e815"
+      }
+    },
+    "owner": "prince_daniel"
   }
 }
